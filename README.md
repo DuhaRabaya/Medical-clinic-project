@@ -1,9 +1,37 @@
 # Medical-clinic-project
 I made this project for my data structures cours, using OOP featuers and data structures such as arraylist, stack, and queue
 
-## I used four class 
-Myarraylist class
+## the classes I used
 
-MyQueue class
+## Myarraylist class
 
-Patient class 
+   -add()
+   
+   -get()
+   
+   -ensurecapasity()
+   
+   -removebyinde()
+
+   
+## MyQueue class
+
+   -enqueue()
+   
+   -dequeue()
+   
+   -addbyindex()
+   
+   -deletebyindex()
+   
+   -isempty()
+   
+   -get()
+
+   
+## Patient class 
+
+   -printinfo()
+
+## Stack class
+
