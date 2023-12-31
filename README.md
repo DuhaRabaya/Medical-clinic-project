@@ -1,13 +1,13 @@
 # Medical-clinic-project
 I made this project for my data structures cours, using OOP featuers and data structures such as arraylist, stack, and queue
 
-# the classes I used
+# the classes I used :
 ## Myarraylist class
 ## MyQueue class
 ## Patient class 
 ## Stack class
 
-## Myarraylist class
+### Myarraylist class
 
    -add()
    
@@ -18,7 +18,7 @@ I made this project for my data structures cours, using OOP featuers and data st
    -removebyinde()
 
    
-## MyQueue class
+### MyQueue class
 
    -enqueue()
    
@@ -33,9 +33,9 @@ I made this project for my data structures cours, using OOP featuers and data st
    -get()
 
    
-## Patient class 
+### Patient class 
 
    -printinfo()
 
-## Stack class
+### Stack class
 
